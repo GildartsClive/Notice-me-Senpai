@@ -29,7 +29,7 @@ Gui, Add, Text, x332 y99 w100 h20 , CRL + Shift + Down
 Gui, Add, Text, x332 y119 w90 h20 , CRL + Shift + Left
 Gui, Add, Text, x332 y139 w100 h20 , CRL + Shift + Right
 ; Generated using SmartGUI Creator 4.0
-Gui, Show, x220 y186 h380 w483, Notace me Senpai 3.0
+Gui, Show, x220 y186 h380 w483, Notice me Senpai 3.1
 
 refresh()
 {
